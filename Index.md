@@ -7,15 +7,17 @@ Me considero responsable y comprometido.
 Me gusta la seguridad informática.
 
 ## Idiomas
-Español nativo
-Catalán alto
-Inglés bajo
+| Idioma | Nivel |
+|:---:|   :---:|
+|Castellano | Nivel Alto|
+|Catalán| Nivel Alto|
+|Inglés| Nivel Bajo|
 
 ### Formación académica
+### ESO
 Instituto Joanot Martorell
-ESO
-IFP Formación Hospitalet 
-Ciclo medio de sistemas y redes
+### FPGM Sistemas Microinformáticos y Redes
+IFP Formación Hospitalet
 
 ## Habilidades
 Trabajo en equipo
