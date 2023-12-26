@@ -26,8 +26,7 @@ En constante aprendizaje
 
 ## Experiencia laboral
 He hecho practicas en una empresa.
-Tengo pensado acabar los estudios antes de trabajar.
-Sin embargo, no tengo problema si trabajo mientras estudio.
+No tengo problema en trabajar mientras estudio.
 
 ## Otros datos de interés
 Me interesa la seguridad informática.
