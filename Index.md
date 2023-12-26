@@ -1,4 +1,4 @@
-<img src="image_67129857.jpg">
+<img src="image_67129857.JPG">
 
 # **Paulo Saliaj Dosti**
 ## Sobre mi
