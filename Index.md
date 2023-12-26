@@ -31,4 +31,4 @@ Sin embargo, no tengo problema si trabajo mientras estudio.
 
 ## Otros datos de interés
 Me interesa la seguridad informática.
-Practico futbol desde los 6 años.
+En mi tiempo libre practico futbol. 
