@@ -1,4 +1,4 @@
-<img src="montañas-e1533762816593.jpg">
+<img src="image_67129857.jpg">
 
 # **Paulo Saliaj Dosti**
 ## Sobre mi
